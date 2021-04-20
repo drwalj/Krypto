@@ -1,0 +1,44 @@
+#bdg {
+  background-color : lightgrey;
+  height:300vh;
+}
+
+.navbarmain{
+  color: white;
+}
+
+.atext{
+  color: white;
+  font-size: 23px;
+}
+
+.bigheader{
+  background-image:url(images/placeholder.png);
+  height:100vh;
+  padding: 25rem 0;
+}
+
+.header {
+  width: 100%;
+
+}
+
+h1{
+  font-style: bold;
+}
+
+#projects-section{
+  padding:150px
+}
+
+.featured-text{
+  border-left: 0.5rem solid #64a19d;
+  padding: 2rem;
+
+}
+
+.featured-text-r{
+  border-right: 0.5rem solid #64a19d;
+  padding: 2rem;
+
+}
