@@ -1,6 +1,5 @@
 #bdg {
   background-color : lightgrey;
-  height:300vh;
 }
 
 .navbarmain{
@@ -27,10 +26,6 @@ h1{
   font-style: bold;
 }
 
-#projects-section{
-  padding:150px
-}
-
 .featured-text{
   border-left: 0.5rem solid #64a19d;
   padding: 2rem;
@@ -41,4 +36,26 @@ h1{
   border-right: 0.5rem solid #64a19d;
   padding: 2rem;
 
+}
+
+.featured-text-b{
+  border-bottom: 0.5rem solid #64a19d;
+  padding: 2rem;
+
+}
+
+p{
+  font-style: bold;
+}
+
+.arten-section {
+  padding: 10rem 0 2rem 0;
+}
+
+.geschichte-section {
+  padding: 10rem 0 2rem 0;
+}
+
+.blockchain-section {
+  padding: 10rem 0 2rem 0;
 }
